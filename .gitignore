@@ -1,0 +1,17 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_vendor
+bin
+pkg
+.idea
+
+# Go specific
+*.exe
+*.test
+*.prof
+*.trace
+*.cover
